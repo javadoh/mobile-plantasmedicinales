@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "136731004195",
+    "firebase_url": "https://admob-app-id-8415936266.firebaseio.com",
+    "project_id": "admob-app-id-8415936266",
+    "storage_bucket": "admob-app-id-8415936266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136731004195:android:e16c9d49f322dc14",
+        "android_client_info": {
+          "package_name": "com.javadoh.plantasmedicinalesnaturales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136731004195-kkabm2rma9138d02qht5b09868a5an4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg8X7nEgBEwWslhXh1CG06zKMjBlcoAP0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

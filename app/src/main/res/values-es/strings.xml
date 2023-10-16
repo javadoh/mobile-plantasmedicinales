@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Plantas Medicinales Naturales</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configuración</string>
+    <!-- TITLES -->
+    <string name="titleTerms">TÉRMINOS Y CONDICIONES</string>
+    <string name="titleComments">COMENTARIOS</string>
+    <string name="detailPlant">DETALLE DE </string>
+    <string name="dialogoNewsTitle">NOTICIAS</string>
+    <string name="menuSoundTitle">HABILITAR/DESHABILITAR MUSICA</string>
+    <!--MENU TITLES-->
+    <string name="menuStoreTitle">Tienda</string>
+    <string name="menuFaqTitle">FAQ</string>
+    <string name="menuFavTitle">Favoritos</string>
+    <string name="menuShareTitle">Compartir</string>
+    <string name="menuLogInOutTitle">Log In/Out</string>
+    <!-- SUBTITLES -->
+    <string name="aliasFragTitle"><b>ALIAS: </b></string>
+    <string name="descFragTitle"><b>DESCRIPCI\u00d3N: </b></string>
+    <string name="sectionFragTitle"><b>SECCI\u00d3N: </b></string>
+    <string name="propertiesFragTitle"><b>PROPIEDADES: </b></string>
+    <string name="indicationsFragTitle"><b>INDICACIONES: </b></string>
+    <string name="contraIndicationsFragTitle"><b>CONTRAINDICACIONES: </b></string>
+    <string name="useFragTitle"><b>EMPLEO: </b></string>
+    <string name="symptomsFragTitle"><b>S\u00cdNTOMAS: </b></string>
+    <string name="locationFragTitle"><b>UBICACI\u00d3N: </b></string>
+    <string name="gastronomyFragTitle"><b>GASTRONOM\u00cdA: </b></string>
+    <string name="commentUsuario"><b>Usuario: </b></string>
+    <string name="commentEmail"><b>Email: </b></string>
+    <string name="commentText"><b>Comentario: </b></string>
+    <!--HINTS-->
+    <string name="hintSearch">Ingresa tu búsqueda...</string>
+    <string name="hintCommentName">Ingresa tu nombre y apellido</string>
+    <string name="hintCommentEmail">Ingresa tu email</string>
+    <string name="hintCommentText">Ingresa tu comentario</string>
+    <!-- BUTTONS -->
+    <string name="btn_text_busqueda_1">Buscar Hierbas</string>
+    <string name="btn_text_busqueda_2">Buscar Síntomas</string>
+    <string name="btn_enviar">ENVIAR</string>
+    <string name="btn_cancelar">CANCELAR</string>
+    <string name="busqueda_hierba">PLANTA</string>
+    <string name="busqueda_sintoma">SINTOMA</string>
+    <string name="btn_face_continue">CONTINUAR</string>
+    <string name="btn_accept">ACEPTAR</string>
+    <string name="btn_later">MÁS TARDE</string>
+    <!-- DIALOGOS -->
+    <string name="titulo_dialogo_comentario">INGRESO DE COMENTARIO</string>
+    <string name="titulo_dialogo_imagen_gde">DETALLE DE</string>
+    <string name="error_nombre_dialogo">Debes ingresar un nombre.</string>
+    <string name="error_email_dialogo">Debes ingresar un email valido.</string>
+    <string name="error_comentarios_dialogo">No se permiten caracteres especiales en los comentarios, ni palabras reservadas.</string>
+    <!--## DIALOGO TIENDA -->
+    <string name="compra_realizada_store">Ya has comprado la deshabilitación de publicidad. Es nuestro único producto de momento. ¡Muchas Gracias!</string>
+    <string name="montoPagoPremium">0.99</string>
+    <string name="monedaPago">US$</string>
+    <string name="subTituloPago">ÚNICO PAGO PARA DESHABILITAR LA PUBLICIDAD PERMANENTEMENTE</string>
+    <string name="btnpagar">CONSULTAR</string>
+    <!-- CHECKBOX -->
+    <string name="terminos_pantalla_inicio">He leído y estoy de acuerdo con los</string>
+    <string name="terminos_clickable_inicio"><u>términos y condiciones.</u></string>
+    <!--ERRORES-->
+    <string name="errorHomeCheck">¡Hola!, debes aceptar los términos y condiciones para continuar con la búsqueda...</string>
+    <string name="errorSinResultados">NO SE ENCOTRARON RESULTADOS EN LA BÚSQUEDA</string>
+    <string name="errorSinConexion">NO FUE POSIBLE CONECTARNOS AL SERVIDOR, POR FAVOR INTENTALO MÁS TARDE.</string>
+    <string name="errorGral">Ocurrió un error: </string>
+    <string name="errorGral2">¡Ha ocurrido un error!, lo sentimos.</string>
+    <string name="errorTienda">No se pudo llamar a los servicios de google in pay, lo sentimos, te sugerimos revisar la instalación de la tienda de google y la configuración de tu equipo así como de tu cuenta gmail.</string>
+    <string name="errorCommentForm">Debes ingresar correctamente los datos en el formulario.</string>
+    <string name="errorImagesAdapter">Hubo un problema con la imágen... ¡Lo sentimos!</string>
+    <string name="errorInAppPayCreated">No hemos podido conectarnos con los servicios de pago de google, lo sentimos... Por favor intentalo más tarde y asegurate de tener conexión a internet.</string>
+    <string name="errorNoInternet">No es posible continuar sin conexión a internet.</string>
+    <string name="errorCannotRate">Ocurrió un error al iniciar intent de rate a google play, lo sentimos!. Por favor, intentalo después.</string>
+    <string name="errorInputSearchChars">Por favor, no ingreses caractéres especiales o números en la busqueda.</string>
+    <string name="errorSharePlant">Lo sentimos, no pudimos compartir la planta con las redes sociales.</string>
+    <!--TERMINOS Y CONDICIONES-->
+    <string name="terminos_condiciones_text">El cliente se obliga a usar los Servicios de forma diligente, correcta y lícita y, en particular, a título meramente informativo y no limitativo, se compromete a abstenerse de: utilizar la información contenida en esta aplicación sin la disposición de asumir los riesgos que ello pueda conllevar. Es deber del usuario profundizar la información expuesta en esta aplicación. El uso de Plantas Medicinales Naturales con fines o efectos contrarios a la ley, a la moral y a las buenas costumbres generalmente aceptadas o al orden público; reproducir o copiar, distribuir, permitir el acceso del público a través de cualquier modalidad de comunicación pública, transformar o modificar los Servicios, a menos que se cuente con la autorización del titular de los correspondientes derechos o ello resulte legalmente permitido; realizar cualquier acto que pueda ser considerado una vulneración de cualesquiera derechos de propiedad intelectual o industrial pertenecientes a JAVADOH S.A o a terceros; emplear los Servicios y, en particular, la información de cualquier clase obtenida a través de la aplicación para remitir publicidad, comunicaciones con fines de venta directa o con cualquier otra clase de finalidad comercial, mensajes no solicitados dirigidos a una pluralidad de personas con independencia de su finalidad, así como de comercializar o divulgar de cualquier modo dicha información; El Cliente responderá de los daños y perjuicios de toda naturaleza que JAVADOH S.A pueda sufrir, con ocasión o como consecuencia del incumplimiento de cualquiera de las obligaciones anteriormente expuestas así como cualesquiera otras incluidas en las presentes Condiciones Generales y/o las impuestas por la Ley en relación con la utilización de la aplicación. JAVADOH S.A velará en todo momento por el respeto del ordenamiento jurídico vigente, y estará legitimada para interrumpir, a su entera discreción, el Servicio o excluir al Cliente del Sitio Web en caso de presunta comisión, completa o incompleta, de alguno de los delitos o faltas tipificados por el Código Penal vigente, o en caso de observar cualesquiera conductas que a juicio de JAVADOH S.A resulten contrarias a estas Condiciones Generales, las Condiciones Generales de Contratación que operan para este Sitio Web, la Ley, las normas establecidas por JAVADOH S.A o sus colaboradores o puedan perturbar el buen funcionamiento, imagen, credibilidad y/o prestigio de JAVADOH S.A o sus colaboradores.</string>
+    <!--FAQ-->
+    <string name="textoBusquedaFaq">Para realizar búsquedas ingresa el nombre, alias o nombre científico con el que conoces a la planta/hierba/árbol/fruto; también puedes buscar por un nombre de síntoma/enfermedad/padecimiento/zona. Si no obtienes resultados, intenta con sinónimos, acentos o palabras acortadas.</string>
+    <string name="textoInformacion">Al concretar la búsqueda se mostrará una colección de plantas con una imágen descriptiva de la misma, nombre y alias; al hacer click en el nombre o alias, se mostrará un detalle de la planta que ofrece infromación sobre su descripción, partes empleadas, indicaciones, formas de uso o empleo, contraindicaciones, síntomas asociados a su uso, origen, ubicación, usos gastronómicos, entre otros, además de comentarios que comparten las experiencias y vivencias de los usuarios para los usuarios.</string>
+    <string name="textoReferencias">Plantas Medicinales Naturales se ha apoyado principalmente en <b>Wikipedia</b> en la construcción de su información, así como también de algunos otros textos educativos e informativos del área de la medicina natural. Las imágenes fundamentalmente se basan en la vista natural, es decir, que puedan reconocerse en su hábitat natural.</string>
+    <string name="textoFacebookCommentsFaq">La aplicación posee la funcionalidad de enviar comentarios tanto integrados con facebook, como también para aquellos usuarios que no tengan perfil en la red social, ingresando su nombre, email y comentario respectivamente. Esta función la puedes encontrar en el detalle de cada planta, árbol o fruto, tanto al hacer click en el botón de agregar comentarios, como en el menú de la parte superior del cual podrás iniciar o cerrar la sesión de facebook cuando lo desees.</string>
+    <!--FACEBOOK-->
+    <string name="facebook_app_id">154138268330644</string>
+    <string name="btnfacebookasociar">COMENTAR CON FACEBOOK</string>
+    <string name="action_login_facebook">Log In</string>
+    <string name="action_logout_facebook">Log Out</string>
+    <string name="facebookCommentSucceed">Se ingreso el comentario exitosamente, el mismo debe ser aprobado por un administrador en las próximas horas.</string>
+    <string name="facebookDataRecovered">Recuperamos la data de facebook sin que iniciaras sesión nuevamente... Por favor abre nuevamente los comentarios.</string>
+    <string name="facebookRecoverDataSingle">Recuperando los datos...</string>
+    <!--DATA API-->
+    <string name="noCity">-</string>
+    <string name="noCountry">Internacional</string>
+    <string name="noUserName">sinnombre</string>
+    <string name="noBirthday">Sin fecha de cumpleaños</string>
+    <string name="noGender">Indefinido</string>
+    <string name="noEmail">sincorreo</string>
+    <!-- FACEBOOK ERRORES -->
+    <string name="facebookGralError">Ocurrió un error al recuperar los datos de facebook. Te pedimos disculpas, se verificará lo ocurrido.</string>
+    <string name="facebookCommentError">Ocurrió un error al enviar el comentario. Te pedimos disculpas, se verificará lo ocurrido.</string>
+    <string name="facebookCancelSession">Se ha cancelado el inicio de sesión de facebook.</string>
+    <string name="facebookErrorSession">Lo sentimos, ha ocurrido un error al iniciar sesión de facebook.</string>
+    <!-- ADMOB -->
+    <string name="adbanner">ca-app-pub-9433945240629594/3148131860</string>
+    <string name="adintersticial">ca-app-pub-9433945240629594/6101598269</string>
+    <!-- PAYPAL PARA COMPRADORES INTERNOS QUITAR PUBLICIDAD -->
+    <string name="idpaypalkey">Abfterl8vA6SK_wCFgvT0C8u6-c9XWqf4suVA8kN0LUckzDsxZylWYGcs0W5nkBfKG3CFWvIx86vqVSr</string>
+    <!-- UPDATES -->
+    <string name="incomingFav">Pronto implementaremos la opción de agregar favoritos...</string>
+    <string name="incomingShare">Pronto implementaremos la opción de compartir la información con las redes...</string>
+    <!-- LOCALIZATION -->
+    <string name="flagLocalization">ES</string>
+    <!-- RATE -->
+    <string name="rate_title">CALIFICA ESTA APLICACION</string>
+    <string name="rate_message">Si disfrutas la aplicación, por favor tómate un minuto para darle cinco estrellas, esto nos motivará y nos ayudará a mejorarla. ¡Gracias por tu tiempo!</string>
+    <string name="rate_positive">Ir ahora</string>
+    <string name="rate_remind_later">Recuérdarme</string>
+    <string name="rate_never">No, ok</string>
+    <!-- UPDATE NEWS -->
+    <string name="proxUpdateNews2">En nuestras próximas actualizaciones incluiremos nuevas plantas, frutos, árboles, así como también la posibilidad de nuevos módulos, secciones y funcionalidades de interés para los usuarios, además de incluir cualquier mejora necesaria en la aplicación; todo lo anterior, de la mano con el crecimiento de la aplicación en cantidad de usuarios y requerimientos.</string>
+    <string name="proxUpdateNews">"11/07/2019 \n \n <b> -Nuevas plantas: </b> Valeriana, Rábano, Tabaco. \n \n -<b> Mejoras en la ventana de detalle de la planta.</b> \n \n - <b>Nueva presentación </b>"</string>
+    <!-- SHARE WASSAP -->
+    <string name="tituloSharePlantSubject">", pienso es de mucha utilidad para ti!, búscala por su nombre. Debes instalar la aplicación. Saludos."</string>
+    <string name="tituloSharePlant">"¡Hola! Te comparto la información de la planta "</string>
+    <string name="tituloSharePlant2">", Descargala y buscala desde esa aplicación:
+ https://play.google.com/store/apps/details?id=com.javadoh.plantasmedicinalesnaturales"</string>
+    <string name="termscheckselection">Selección de acepta términos y condiciones para el uso de la aplicación</string>
+    <string name="bannerpubend">Banner de publicidad inferior</string>
+    <string name="newsapp">Noticias y novedades de la aplicación</string>
+    <string name="nodataimg">Image representing there is no data with that search string</string>
+    <string name="nointernetimg">No internet connection image</string>
+</resources>
